@@ -1,4 +1,4 @@
-# primeiros-algoritmos-python
+# 🐍 📊 | Análise-De-Dados-Com-Python
 
 Este repositório foi criado para armazenar meus exercícios desenvolvidos em Python, utilizando o Jupyter Notebook.
 
